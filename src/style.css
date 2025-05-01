@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to bottom, #333333, #353535);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    flex-direction: column;
+    font-weight: bold;
+  }
+  
+  .container_main {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+  }
+  
+  .container_form {
+    box-shadow: 1px 3px 3px rgb(36, 36, 36);
+    padding: 1em;
+    border-radius: 10px;
+  }
+  
